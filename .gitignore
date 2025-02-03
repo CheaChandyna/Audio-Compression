@@ -4,6 +4,5 @@ bin/
 *.exe
 *.class
 *.json
-*.txt
 *.csv
 *.json
