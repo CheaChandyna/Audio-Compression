@@ -1,0 +1,9 @@
+venv/
+bin/
+.vscode/
+*.exe
+*.class
+*.json
+*.txt
+*.csv
+*.json
